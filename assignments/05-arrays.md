@@ -27,7 +27,7 @@
 22. [Two Sum](https://leetcode.com/problems/two-sum/)
 23. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) repeat
 24. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
-25. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+25. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)repeat
 26. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 27. [Plus One](https://leetcode.com/problems/plus-one/)
 28. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
